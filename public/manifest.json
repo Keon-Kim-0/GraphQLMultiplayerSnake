@@ -1,0 +1,12 @@
+{
+  "short_name": "AlaffiaTH",
+  "name": "AlaffiaTH",
+  "icons": [
+    {
+      "url": "https://secureservercdn.net/50.62.174.75/tg8.458.myftpupload.com/wp-content/uploads/2021/03/cropped-favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "."
+}
